@@ -1,5 +1,4 @@
-#Assignment 3
-#author: Meiru and Ishan
+#author: Meiru 
 
 from prettytable import PrettyTable
 
